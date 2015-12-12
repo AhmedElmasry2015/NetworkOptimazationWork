@@ -35,6 +35,3 @@ end
 
 a=adjMatrix(arcs,non)
 
-update=[0,Inf,Inf,Inf,Inf]
-
-
